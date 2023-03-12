@@ -1,0 +1,48 @@
+{
+  "user": [
+    {
+      "name": "rahul",
+      "email": "rahul@mail.com",
+      "password": "rahul@123",
+      "id": 1
+    },
+    {
+      "name": "vipul",
+      "email": "vipul@mail.com",
+      "password": "vipul@123",
+      "id": 2
+    },
+    {
+      "name": "Peter",
+      "email": "peter@mail.com",
+      "password": "peter@123",
+      "id": 3
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "KFC",
+      "address": "Noida Sector 16",
+      "contact": 201302
+    },
+    {
+      "id": 2,
+      "name": "Burger King",
+      "address": "Noida Sector 18",
+      "contact": 201304
+    },
+    {
+      "id": 3,
+      "name": "Dominos",
+      "address": "Lajpat Nagar, Delhi",
+      "contact": 110065
+    },
+    {
+      "name": "Alex Johnson",
+      "address": "New Delhi",
+      "contact": "9999999",
+      "id": 4
+    }
+  ]
+}
